@@ -1,11 +1,80 @@
-<h1 align="center">Hi 👋, I'm MD Tanvirul Islam Bhuiyanh</h1>
-<h3 align="center">Frontend Web Developer</h3>
-
-- 📫 How to reach me **tonmoytanvir426@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h1 align="center">Hi, I'm MD Tanvirul Islam Tonmoy 👋</h1>
+<p align="center">
+  <b>Frontend Web Developer</b> • Learning <b>Backend Development</b> • Building real-world projects
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-link">LinkedIn</a> •
+  <a href="https://your-portfolio-link.com">Portfolio</a> •
+  <a href="mailto:your-email@gmail.com">Email</a> •
+  <a href="https://facebook.com/your-link">Facebook</a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+- 🎓 B.Sc. in **Computer Science & Engineering** — *Port City International University*
+- 💻 I build modern, responsive web interfaces and I’m learning backend development step-by-step
+- 🚀 Currently working on **frontend + backend projects** to improve my full-stack skills
+- 🤝 Open to: **internship / junior roles / freelance projects**
+
+---
+
+## 🧰 Tech Stack
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwindcss)
+
+### Backend (Learning)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
+![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase)
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+![Go](https://img.shields.io/badge/Go-000?style=for-the-badge&logo=go)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS%20Code-000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+
+---
+
+## 🔥 What I'm Doing Now
+- ✅ Building more **real projects** (frontend + backend)
+- 📚 Learning: **APIs, databases, Go language, backend skills**
+- 🧪 Practicing: clean code, UI/UX basics, and performance
+
+---
+
+## 📌 Featured Projects
+> Replace these with your best projects (2–6 projects is perfect).
+
+- **Project Name 1** — short one-line description  
+  🔗 Live: https:  
+  💻 Code: https:
+
+- **Project Name 2** — short one-line description  
+  🔗 Live: https:  
+  💻 Code: https:
+
+- **Project Name 3** — short one-line description  
+  💻 Code: https:
+
+---
+
+## 📫 Contact
+- Email: **tonmoytanvir426@gmail.com**
+- LinkedIn: https:
+- Portfolio: https:
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tonmoy426&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
