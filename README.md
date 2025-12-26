@@ -4,17 +4,17 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-link">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/md-tanvirul-islam-bhuiyanh-44b880335/">LinkedIn</a> •
   <a href="https://your-portfolio-link.com">Portfolio</a> •
-  <a href="mailto:your-email@gmail.com">Email</a> •
-  <a href="https://facebook.com/your-link">Facebook</a>
+  <a href="tonmoytanvir426@gmail.com">Email</a> •
+  <a href="https://www.facebook.com/md.tanvirulislam.790">Facebook</a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 - 🎓 B.Sc. in **Computer Science & Engineering** — *Port City International University*
-- 💻 I build modern, responsive web interfaces and I’m learning backend development step-by-step
+- 💻 I build modern, responsive web interfaces and I’m learning backend development 
 - 🚀 Currently working on **frontend + backend projects** to improve my full-stack skills
 - 🤝 Open to: **internship / junior roles / freelance projects**
 
@@ -30,7 +30,7 @@
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwindcss)
 
-### Backend (Learning)
+### Backend 
 ![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
 ![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase)
@@ -53,25 +53,25 @@
 ---
 
 ## 📌 Featured Projects
-> Replace these with your best projects (2–6 projects is perfect).
 
-- **Project Name 1** — short one-line description  
-  🔗 Live: https:  
-  💻 Code: https:
+- **Law.BD** — Our platform connects you with verified, experienced Lawyers across various specialties  
+  🔗 Live: https://lawyer-appointment-bd-app.netlify.app/  
+  💻 Code: https://github.com/tonmoy426/Law_BD
 
-- **Project Name 2** — short one-line description  
-  🔗 Live: https:  
-  💻 Code: https:
+- **Auction Gallery** — Bid on Unique Items from Around the World. Discover rare collectibles, luxury goods, and vintage treasures in our curated auctions 
+  🔗 Live: https://auction-gallery-website-assignment.netlify.app/ 
+  💻 Code: https://github.com/tonmoy426/Auction-Gallery
 
-- **Project Name 3** — short one-line description  
-  💻 Code: https:
+- **English Janala** — Start your language learning journey early! We want to help you reinforce your new vocabulary, our Interactive Lessons are waiting for you.
+  🔗 Live: https://english-janala-learning-website.netlify.app/ 
+  💻 Code: https://github.com/tonmoy426/English_Janala
 
 ---
 
 ## 📫 Contact
 - Email: **tonmoytanvir426@gmail.com**
-- LinkedIn: https:
-- Portfolio: https:
+- LinkedIn: https://www.linkedin.com/in/md-tanvirul-islam-bhuiyanh-44b880335/
+- Portfolio: 
 
 ---
 
