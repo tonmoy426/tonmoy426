@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/md-tanvirul-islam-bhuiyanh-44b880335/">LinkedIn</a> •
-  <a href="https://your-portfolio-link.com">Portfolio</a> •
+  <a href="">Portfolio</a> •
   <a href="tonmoytanvir426@gmail.com">Email</a> •
   <a href="https://www.facebook.com/md.tanvirulislam.790">Facebook</a>
 </p>
